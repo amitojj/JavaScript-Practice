@@ -14,5 +14,5 @@ function findLargestNumber(arr) {
   return largestNumber
 }
 
-let numArr = [23, 54, 87, 32, 99];
+numArr = [23, 54, 87, 32, 99];
 console.log(findLargestNumber(numArr));
