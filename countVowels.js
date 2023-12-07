@@ -12,6 +12,7 @@ function countVowels(inputString) {
     )
       count++; 
   }
+  
   return count
 }
 
